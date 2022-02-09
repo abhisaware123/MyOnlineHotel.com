@@ -92,11 +92,29 @@ const Menu = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
   {
-    id: 10,
-    image: "../images/samosa.jpg",
+    id: 11,
+    image: "../images/Tea.jpg",
     name: "Tea",
     category: "latenight",
     price: "10₹",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+  },
+  {
+    id: 12,
+    image: "../images/poha.jpg",
+    name: "Poha",
+    category: "breakfast",
+    price: "15₹",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+  },
+  {
+    id: 13,
+    image: "../images/pasta.jpg",
+    name: "Pasta",
+    category: "evening",
+    price: "25₹",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
